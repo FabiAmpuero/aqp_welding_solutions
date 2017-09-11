@@ -1,0 +1,23 @@
+{
+  "name": "aqp_welding_solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabiAmpuero/aqp_welding_solutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabiAmpuero/aqp_welding_solutions/issues"
+  },
+  "homepage": "https://github.com/FabiAmpuero/aqp_welding_solutions#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
